@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Pagina de Registro</title>
+    <link href="Content/css/Site.css" rel="stylesheet" />
 </head>
 <body>
     <header>
@@ -29,7 +30,20 @@
             </p>
 
             <p>
-                Código: <input type="text" readonly />
+                Código: <input type="text" readonly value="1001" />
+            </p>
+
+            <p>
+                <datalist id="browsers">
+                    <option value="IE">Internet Explorer</option>
+                    <option value="FI">Firefox</option>
+                    <option value="Chrome"></option>
+                    <option value="Opera"></option>
+                    <option value="Safari"></option>
+                </datalist>
+
+                <input type="type" name="name" value="" list="browsers" />
+
             </p>
 
         </form>
