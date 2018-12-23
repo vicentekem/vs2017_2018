@@ -98,3 +98,9 @@ C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csproj.C
 C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.csproj.CopyComplete
 C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.dll
 C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\obj\Debug\Cibertec.UI.MVC.pdb
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.dll
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.SqlServer.dll
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\log4net.dll
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.xml
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\EntityFramework.SqlServer.xml
+C:\Labs\lab01\Cibertec.UI.MVC\Cibertec.UI.MVC\bin\log4net.xml
