@@ -1,0 +1,8 @@
+Servicios web	
+	SOAP -> xml
+	REST -> Json
+
+WCF -> Framework para Servicios web (SOAP)
+
+WEB API -> Para servicios REST
+
