@@ -1,0 +1,75 @@
+﻿@import url("https://fonts.googleapis.com/css?family=Roboto");
+body {
+  font-family: roboto;
+  color: #333; }
+
+header {
+  background-color: #0080aa;
+  height: 118px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0; }
+
+nav ul li a {
+  text-decoration: none; }
+  nav ul li a:link {
+    text-decoration: none; }
+  nav ul li a:visited {
+    color: #FFF; }
+
+footer {
+  background-color: #333;
+  color: #eee;
+  height: 60px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding-top: 10px; }
+
+.headerlogo {
+  width: 150px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px; }
+
+section {
+  margin-top: 130px;
+  margin-bottom: 80px; }
+
+.dropdown {
+  display: inline-block;
+  margin-right: 3em;
+  position: fixed; }
+  .dropdown-content {
+    list-style: none;
+    display: block;
+    float: left;
+    padding-top: 30px; }
+    .dropdown-content li {
+      float: left;
+      padding: 0 5px; }
+
+#RegistroAlta label {
+  display: block;
+  margin: 15px 0 0 0; }
+
+#RegistroAlta2 div {
+  margin: 10px 0 0 0; }
+  #RegistroAlta2 div label {
+    width: 15%;
+    display: inline-block; }
+
+#RegistroAlta3 fieldset {
+  width: 40%;
+  display: inline-block; }
+
+#RegistroAlta3 label {
+  display: block;
+  margin: 15px 0 0 0; }
+
+input:focus {
+  border: 2px solid #000;
+  background: #F3F3F3; }

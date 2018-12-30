@@ -1,0 +1,103 @@
+﻿body {
+    font-family: roboto;
+    color: #333;
+}
+
+header {
+    background-color: $site-back-color-header;
+    height: 118px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+nav {
+    ul li a {
+        text-decoration: none;
+
+        &:link {
+            text-decoration: none;
+        }
+
+        &:visited {
+            color: #FFF;
+        }
+    }   
+}
+
+
+
+
+footer {
+    background-color: $site-back-color-footer;
+    color: #eee;
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.headerlogo {
+    width: 150px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+section {
+    margin-top: 130px;
+    margin-bottom: 80px;
+}
+
+.dropdown {
+    display: inline-block;    
+    margin-right: 3em;
+    position: fixed;
+
+    &-content {
+        list-style: none;
+        display: block;
+        float: left;
+        padding-top: 30px;
+
+        li {
+            float: left;
+            padding: 0 5px;
+        }
+    }
+}
+
+#RegistroAlta {
+    label {
+        @include registro-label();
+    }
+
+    &2 {
+        div {
+            margin: 10px 0 0 0;
+
+            label {
+                @include field-set-group(15%);
+            }
+        }
+    }
+
+    &3 {
+        fieldset {
+            @include field-set-group(40%);
+        }
+
+        label {
+            @include registro-label();
+        }
+    }
+}
+
+input:focus {
+    border: 2px solid #000;
+    background: #F3F3F3;
+}

@@ -1,0 +1,9 @@
+﻿@mixin field-set-group($width) {
+    width: $width;
+    display:inline-block;
+}
+
+@mixin registro-label() {
+    display: block;
+    margin: 15px 0 0 0;
+}
