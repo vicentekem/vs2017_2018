@@ -12,7 +12,8 @@ header {
   right: 0; }
 
 nav ul li a {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #FFF; }
   nav ul li a:link {
     text-decoration: none; }
   nav ul li a:visited {

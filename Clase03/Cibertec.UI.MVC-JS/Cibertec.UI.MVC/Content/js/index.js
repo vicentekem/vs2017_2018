@@ -1,4 +1,4 @@
-﻿function (cibertec) {
+﻿(function (cibertec) {
 
     cibertec.Index = {
 
@@ -9,4 +9,4 @@
 
     }
 
-}
+})(window.cibertec = window.cibertec || {});
