@@ -1,0 +1,14 @@
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb

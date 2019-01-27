@@ -22,15 +22,19 @@
 
             var productos = cibertec.helpers.GetObjetctLocalStorage('ListadoProductos') || [];
             var contentSring = "";
+            
             productos.forEach(function (producto) {
+
                 contentSring += "<tr>";
                 contentSring += "<td>" + producto.nombre + "</ts>";
                 contentSring += "<td>" + producto.precio + "</ts>";
                 contentSring += "<td>" + producto.stock + "</ts>";
                 contentSring += "</tr>";
+
             });
 
-            document.getElementById("tblProductos").innerHTML = contentSring;
+            $("#tblProductos").append(contentSring);
+            //document.getElementById("tblProductos").innerHTML = contentSring;
         }
 
     </script>

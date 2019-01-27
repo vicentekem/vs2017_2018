@@ -1,0 +1,6 @@
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
