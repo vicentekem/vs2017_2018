@@ -63,11 +63,11 @@ section {
 .main-section{
     flex-grow:1;   
     display:flex;
-    align-items:center;
-    justify-content:center;
 }
+
 .form-register {
     display: block;
+    margin:auto;
     label{
         display:inline-block;
         width:80px;
@@ -76,6 +76,7 @@ section {
         width: 200px;
     }
 }
+
 .dropdown {
     margin: 0;
     width: 20%;
@@ -93,4 +94,38 @@ section {
         padding-right: 10px;
     }
 }
+
+.table-products {
+    margin: 10px auto;
+    border: 1px solid #777;
+    width: 90%;
+    font-family:Calibri;
+    color:#333;
+    border-collapse:collapse;
+
+    th{
+        text-align:left;
+        border-right: 1px solid #aaa;
+    }
+    td,th{
+        padding-left:5px;
+    }
+    
+}
+
+a {
+    color: #03F;
+    text-decoration: none;
+
+    &:link {
+        text-decoration: none;
+    }
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+
+
 

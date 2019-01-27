@@ -5,6 +5,64 @@
     <title>Bienvenidos a Cibertec Web</title>
     <link href="Content/styles.css" rel="stylesheet" />
     <script src="Content/js/index.js"></script>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Content/js/helpers.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(config);
+
+        function config() {
+            $("#btnRegistrar").on("click", ValidarFormulario)
+
+            $("#nombre").on("input", ClearValidity);
+            $("#precio").on("input", ClearValidity);
+            $("#stock").on("input", ClearValidity);
+
+        }
+
+        function ValidarFormulario() {
+
+            var formElement = document.getElementById("formRegister");
+
+            cibertec.helpers.ValidarRequerido("nombre");
+
+            cibertec.helpers.ValidarNumero("precio","El Precio debe ser un número");
+            cibertec.helpers.ValidarNumero("stock", "El stock debe ser un número");
+
+            formElement.reportValidity();         
+
+            if ( formElement.checkValidity() ) {                
+                Guardar();
+            }
+
+        }
+
+        function Guardar() {
+
+            var productos = cibertec.helpers.GetObjetctLocalStorage('ListadoProductos') || [];
+            var producto = {}
+
+            producto.nombre = $('#nombre').val();
+            producto.categoria = $('#categoria').val();
+            producto.marca = $('#marca').val();
+            producto.precio = parseFloat( $('#precio').val() );
+            producto.stock = parseInt( $('#stock').val() );
+            
+            productos.push( producto );
+
+            cibertec.helpers.SetObjetctLocalStorage(productos, 'ListadoProductos');
+
+            document.location.href = "ListadoProductos.html";
+
+        }
+
+        function ClearValidity() {
+            $(this)[0].setCustomValidity('');
+        }
+
+    </script>
+
 </head>
 <body>
 
@@ -29,7 +87,7 @@
 
         <section class="main-section">
 
-            <form action="/" method="post" class="form-register">
+            <form action="/" method="post" class="form-register" id="formRegister">
 
                 <p>
                     <label for="nombre">Nombre</label>
@@ -45,8 +103,8 @@
                 </p>
 
                 <p>
-                    <label for="categoria">Categoria</label>
-                    <select id="categoria">
+                    <label for="marca">Marca</label>
+                    <select id="marca">
                         <option value="HP">HP</option>
                         <option value="Sony">Sony</option>
                         <option value="AOC">AOC</option>
@@ -62,8 +120,12 @@
                     <input type="text" name="stock" id="stock" value="" />
                 </p>
 
-                <p style="text-align:center">                    
-                    <input type="button" id="btnRegistrar" value="Registrar" style="padding:3px;width:100px;"/>
+                <p style="text-align:center">
+                    <a href="ListadoProductos.html"> Ver Listado de Productos </a>
+                </p>
+
+                <p style="text-align:center">
+                    <input type="button" id="btnRegistrar" value="Registrar" style="padding:3px;width:100px;" />
                 </p>
 
             </form>
@@ -75,12 +137,6 @@
     <footer>
         Empresa de comercialización de productos al por menor
     </footer>
-    <script type="text/javascript">
-        debugger;
-        document.getElementById('date').innerHTML = cibertec.Index.currentYear();
-            //document.getElementById('date').innerText = cibertec.Index.currentYear();
 
-            //$('#date').text(cibertec.Index.currentYear());
-    </script>
 </body>
 </html>

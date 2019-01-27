@@ -47,12 +47,11 @@ section {
 
 .main-section {
   flex-grow: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
+  display: flex; }
 
 .form-register {
-  display: block; }
+  display: block;
+  margin: auto; }
   .form-register label {
     display: inline-block;
     width: 80px; }
@@ -71,3 +70,24 @@ section {
   .dropdown-content li {
     display: block;
     padding-right: 10px; }
+
+.table-products {
+  margin: 10px auto;
+  border: 1px solid #777;
+  width: 90%;
+  font-family: Calibri;
+  color: #333;
+  border-collapse: collapse; }
+  .table-products th {
+    text-align: left;
+    border-right: 1px solid #aaa; }
+  .table-products td, .table-products th {
+    padding-left: 5px; }
+
+a {
+  color: #03F;
+  text-decoration: none; }
+  a:link {
+    text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
