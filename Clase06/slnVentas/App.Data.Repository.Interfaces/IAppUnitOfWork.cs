@@ -10,6 +10,9 @@ namespace App.Data.Repository.Interfaces
     {
 
         ICategoriaRepository CategoriaRepository { get; set; }
+        IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
+        IMarcaRepository MarcaRepository { get; set; }
+
         int Complete();
         
     }

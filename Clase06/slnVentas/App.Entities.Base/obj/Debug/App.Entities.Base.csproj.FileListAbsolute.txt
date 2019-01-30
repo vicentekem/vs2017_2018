@@ -4,3 +4,9 @@ C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.cs
 C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Labs\lab01\Clase05\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase06\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

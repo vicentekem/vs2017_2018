@@ -25,22 +25,22 @@ namespace App.Data.DataBase
                 .WithRequired(e => e.Categoria)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<Marca>()
-                .Property(e => e.Nombre)
-                .IsFixedLength();
+            //modelBuilder.Entity<Marca>()
+            //    .Property(e => e.Nombre)
+            //    .IsFixedLength();
 
-            modelBuilder.Entity<Marca>()
-                .Property(e => e.Descripcion)
-                .IsFixedLength();
+            //modelBuilder.Entity<Marca>()
+            //    .Property(e => e.Descripcion)
+            //    .IsFixedLength();
 
             modelBuilder.Entity<Marca>()
                 .HasMany(e => e.Producto)
                 .WithRequired(e => e.Marca)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<UnidadMedida>()
-                .Property(e => e.Nombre)
-                .IsFixedLength();
+            //modelBuilder.Entity<UnidadMedida>()
+            //    .Property(e => e.Nombre)
+            //    .IsFixedLength();
 
             modelBuilder.Entity<UnidadMedida>()
                 .HasMany(e => e.Producto)

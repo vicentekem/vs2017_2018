@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace App.Domain.Services
 {
-    public class CategoriaService : ICategoriaService
+    public class CategoriaService : ICategoriaService 
     {
         public IEnumerable<Categoria> GetAll(string nombre)
         {

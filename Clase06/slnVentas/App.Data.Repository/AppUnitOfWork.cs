@@ -9,13 +9,14 @@ using System.Threading.Tasks;
 
 namespace App.Data.Repository
 {
-    public class AppUnitOfWork : IAppUnitOfWork,IDisposable
+    public class AppUnitOfWork : IAppUnitOfWork
     {
 
-        private readonly DbContext _context;
-        private AppModel model;
+        private readonly DbContext _context;        
 
         public ICategoriaRepository CategoriaRepository { get; set; }
+        public IUnidadMedidaRepository UnidadMedidaRepository { get; set; }
+        public IMarcaRepository MarcaRepository { get; set; }
 
         public AppUnitOfWork(DbContext context) {
             _context = context;
@@ -30,9 +31,9 @@ namespace App.Data.Repository
 
         private void CreateRepositories(){
             this.CategoriaRepository = new CategoriaRepository(_context);
+            this.UnidadMedidaRepository = new UnidadMedidaRepository(_context);
+            this.MarcaRepository = new MarcaRepository(_context);
         }
-
-        
 
         public int Complete()
         {
