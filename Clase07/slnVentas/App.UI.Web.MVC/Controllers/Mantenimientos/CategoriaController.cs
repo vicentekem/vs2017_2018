@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using App.Entities.Base;
+using App.UI.Web.MVC.ModelBinders;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
@@ -29,12 +30,21 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return View();
         }
 
+        //[HttpPost]
+        //public ActionResult Create( Categoria model )
+        //{
+        //    var result = categoriaServices.Save(model);
+
+        //    return RedirectToAction("index");            
+        //}
+
         [HttpPost]
-        public ActionResult Create( Categoria model )
+        public ActionResult Create(
+            [ModelBinder(binderType:typeof(CategoriaBinder))] Categoria model )
         {
             var result = categoriaServices.Save(model);
 
-            return RedirectToAction("index");            
+            return RedirectToAction("index");
         }
 
         public ActionResult Edit(int id) {

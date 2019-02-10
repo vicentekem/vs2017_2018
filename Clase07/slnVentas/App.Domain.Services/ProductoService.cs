@@ -29,5 +29,47 @@ namespace App.Domain.Services
             return results;
         }
 
+
+        public Producto GetById(int id)
+        {
+
+            Producto result;
+
+            using (var unitOfWork = new AppUnitOfWork())
+            {
+                result = unitOfWork.ProductoRepository.GetById(id);
+            }
+
+            return result;
+        }
+
+        public bool Save(Producto entity)
+        {
+            bool result = false;
+
+            try
+            {
+                using (var unitOfWork = new AppUnitOfWork())
+                {
+                    if (entity.ProductoID == 0)
+                    {
+                        unitOfWork.ProductoRepository.Add(entity);
+                    }
+                    else
+                    {
+                        unitOfWork.ProductoRepository.Update(entity);
+                    }
+                    unitOfWork.Complete();
+                }
+            }
+            catch
+            {
+                result = false;
+            }
+
+            return result;
+
+        }
+
     }
 }

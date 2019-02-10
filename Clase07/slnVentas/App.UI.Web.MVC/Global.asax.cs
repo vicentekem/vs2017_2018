@@ -18,7 +18,9 @@ namespace App.UI.Web.MVC
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-                       
+
+            //Configurando el componente de log4net
+            log4net.Config.XmlConfigurator.Configure();
 
         }
     }
