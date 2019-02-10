@@ -1,0 +1,31 @@
+﻿@model App.Entities.Base.UnidadMedida
+
+@{
+    ViewBag.Title = "Create";
+    string title = Model == null ? "Nueva Unidad de media" : "Editar Unidad de Medida";
+}
+
+<h2>@title</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        @Html.HiddenFor(model => model.UnidadMedidaID)
+        <div class="form-group">
+            <label for="inputEmail3" class="col-sm-2 control-label">Nombre</label>
+            <div class="col-sm-10">
+                @Html.EditorFor(
+                    model => model.Nombre,
+                    new { htmlAttributes = new { @class = "form-control" } })                
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button class="btn btn-success">Guardar</button>
+            </div>
+        </div>
+    </div>
+
+}
+
