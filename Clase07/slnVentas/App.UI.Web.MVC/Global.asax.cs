@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using App.UI.Web.MVC.App_Start;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,9 @@ namespace App.UI.Web.MVC
 
             //Configurando el componente de log4net
             log4net.Config.XmlConfigurator.Configure();
+
+            //Aplicando Inyección por dependencia
+            DIConfig.ConfigureInjector(); 
 
         }
     }

@@ -1,0 +1,5 @@
+paquetes para inyeccion de dependencia:
+
+	SimpleInjector
+	SimpleInjector.Integration.Web
+	SimpleInjector.Integration.Web.Mvc

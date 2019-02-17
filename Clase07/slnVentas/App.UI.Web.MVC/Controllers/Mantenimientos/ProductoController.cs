@@ -21,12 +21,16 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         private readonly IUnidadMedidaService unidadMedidaService;
         private readonly IMarcaService marcaService;
 
-        public ProductoController()
+        public ProductoController(
+            IProductoService pProductoService,
+            ICategoriaService pCategoriaService,
+            IUnidadMedidaService pUnidadMedidaService,
+            IMarcaService pMarcaService)
         {
-            productoService = new ProductoService();
-            categoriaService = new CategoriaService();
-            unidadMedidaService = new UnidadMedidaService();
-            marcaService = new MarcaService();
+            productoService = pProductoService;
+            categoriaService = pCategoriaService;
+            unidadMedidaService = pUnidadMedidaService;
+            marcaService = pMarcaService;
         }
 
         //GET: Producto

@@ -354,3 +354,9 @@ C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.dll
 C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\obj\Debug\App.UI.Web.MVC.pdb
 C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.dll
 C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\log4net.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.xml
+C:\Labs\lab01\Clase07\slnVentas\App.UI.Web.MVC\bin\SimpleInjector.Integration.Web.Mvc.xml
