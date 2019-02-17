@@ -46,8 +46,8 @@
 @section scriptsAdicionales
 {
     <script>
-        $(document).ready(configInit);
-
+        //$(document).ready(configInit);
+        $(configInit());
         function configInit() {
             buscar();
             $("#btnConsultar").on("click",buscar)

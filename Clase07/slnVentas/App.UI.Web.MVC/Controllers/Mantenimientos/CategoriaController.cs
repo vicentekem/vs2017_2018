@@ -24,12 +24,20 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         // GET: Categoria
         public ActionResult Index()
         {
-            var model = categoriaServices.GetAll("");
-            return View(model);
-        }
-        
-        public ActionResult Create() {
             return View();
+        }
+
+        public ActionResult Buscar(string filterByName) {
+
+            filterByName = filterByName != null ? filterByName : "";
+
+            var model = categoriaServices.GetAll(filterByName);
+
+            return PartialView("IndexListado",model);
+        }
+
+        public ActionResult Create() {
+            return PartialView();
         }
 
         //[HttpPost]

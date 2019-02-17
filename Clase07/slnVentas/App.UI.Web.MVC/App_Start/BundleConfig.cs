@@ -22,9 +22,16 @@ namespace App.UI.Web.MVC
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js"));
 
+            bundles.Add(new ScriptBundle("~/bundles/appscripts")
+                .IncludeDirectory("~/Scripts/App/Common","*.js")
+                .IncludeDirectory("~/Scripts/App/Views","*.js")
+                );
+
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+
         }
     }
 }

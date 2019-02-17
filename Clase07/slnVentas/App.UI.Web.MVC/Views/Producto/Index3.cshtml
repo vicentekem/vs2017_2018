@@ -5,6 +5,7 @@
 <h2>Lista de Productos</h2>
 @Html.ActionLink("Nuevo Producto", "Create", "Producto", new { @class = "btn btn-success" })
 <br /><br />
+
 @using (Html.BeginForm())
 {
     <div class="row">
@@ -75,7 +76,8 @@
 
     <script type="text/javascript">
 
-        $(document).ready(configInit);
+        //$(document).ready(configInit);
+        $(configInit());
 
         function configInit() {
             buscar();
@@ -101,12 +103,9 @@
                             Resultado: JSON.parse(response)
                         }
                     );
-
                     $('#resultado').html(htmlRender);
-
                 }
             );
         }
-
     </script>
 }
