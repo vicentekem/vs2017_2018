@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>AdminLTE 2 | Dashboard</title>
+    <title>@ViewBag.Title | Dashboard</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- Bootstrap 3.3.2 -->
     <link href="/Content/themes/main/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -314,8 +314,22 @@
                             <i class="fa fa-dashboard"></i> <span>Mantenimientos</span> <i class="fa fa-angle-left pull-right"></i>
                         </a>
                         <ul class="treeview-menu">
-                            <li class="active"><a href="@Url.Action("Index","Categoria")"><i class="fa fa-circle-o"></i>Categorías</a></li>
-                            <li><a href="@Url.Action("Index","Producto")"><i class="fa fa-circle-o"></i>Producto</a></li>
+
+                            <li class="@(ViewBag.CurrentPage == "Home" ? "active" : ""   )">
+                                <a href="@Url.Action("Index","Home")"><i class="fa fa-circle-o"></i>Home</a>
+                            </li>
+                            <li class="@(ViewBag.CurrentPage == "Categoria" ? "active" : ""   )">
+                                <a href="@Url.Action("Index","Categoria")"><i class="fa fa-circle-o"></i>Categorías</a>
+                            </li>
+                            <li class="@(ViewBag.CurrentPage == "Marca" ? "active" : ""   )">
+                                <a href="@Url.Action("Index","Marca")"><i class="fa fa-circle-o"></i>Marca</a>
+                            </li>
+                            <li class="@(ViewBag.CurrentPage == "UnidadMedida" ? "active" : ""   )">
+                                <a href="@Url.Action("Index","UnidadMedida")"><i class="fa fa-circle-o"></i>Unidad de Medida</a>
+                            </li>
+                            <li class="@(ViewBag.CurrentPage == "Producto" ? "active" : ""   )">
+                                <a href="@Url.Action("Index","Producto")"><i class="fa fa-circle-o"></i>Producto</a>
+                            </li>
                         </ul>
                     </li>
                     <li class="treeview">
