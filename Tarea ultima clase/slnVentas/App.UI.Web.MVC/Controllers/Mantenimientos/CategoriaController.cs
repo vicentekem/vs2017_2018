@@ -10,12 +10,11 @@ using App.UI.Web.MVC.ModelBinders;
 
 namespace App.UI.Web.MVC.Controllers.Mantenimientos
 {
-    public class CategoriaController : Controller
+    [Authorize(Roles = "Admin")]
+    public class CategoriaController : BaseController
     {
 
         private readonly ICategoriaService categoriaServices;
-
-
 
         public CategoriaController(ICategoriaService pCategoriaServices) {
             categoriaServices = pCategoriaServices;

@@ -1,0 +1,33 @@
+Metodos de ataque
+- xss
+- sql injection
+
+herramientas: 
+
+ De pago:
+	- Hp Foritify
+	- Acunetix
+ Open source: 
+	- Owasp
+
+Asp.Net.Identity -- para autenticacion
+
+--Paso 1
+Install-Package Owin
+Install-Package Microsoft.Owin
+Install-Package Microsoft.Owin.Host.SystemWeb (Instalar)
+Install-Package Microsoft.Owin.Security
+Install-Package Microsoft.Owin.Security.Cookies (Instalar)
+Microsoft.Web.Infraestructure
+
+--Paso 2
+Agregar un archivo Owin Startup Class para configurar el 
+tipo de autenticacion y asignar la página de login
+
+--Paso 3
+Establecer la seguridad en los controladores e implementar la página
+de login
+
+
+
+
