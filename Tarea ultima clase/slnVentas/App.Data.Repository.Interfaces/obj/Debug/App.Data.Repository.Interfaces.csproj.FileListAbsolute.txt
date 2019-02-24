@@ -43,3 +43,12 @@ C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repos
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Data.Repository.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.csproj.CopyComplete
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.Repository.Interfaces\obj\Debug\App.Data.Repository.Interfaces.pdb

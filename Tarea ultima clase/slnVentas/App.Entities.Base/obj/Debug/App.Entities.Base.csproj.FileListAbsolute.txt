@@ -21,3 +21,9 @@ C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Entities.B
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

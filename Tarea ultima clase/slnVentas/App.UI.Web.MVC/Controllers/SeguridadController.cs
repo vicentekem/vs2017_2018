@@ -21,7 +21,7 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
 
         //Es la unica accion con acceso público
         //sin seguridad
-        [AllowAnonymous]
+        [AllowAnonymous] 
         public ActionResult Login()
         {   
             return View();

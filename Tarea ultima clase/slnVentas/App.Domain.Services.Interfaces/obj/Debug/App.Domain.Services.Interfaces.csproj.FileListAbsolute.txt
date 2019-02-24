@@ -34,3 +34,12 @@ C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Ser
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
 C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Clase07\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Domain.Services.Interfaces.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csprojAssemblyReference.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.csproj.CopyComplete
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Domain.Services.Interfaces\obj\Debug\App.Domain.Services.Interfaces.pdb
