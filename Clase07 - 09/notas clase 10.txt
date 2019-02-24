@@ -29,5 +29,9 @@ Establecer la seguridad en los controladores e implementar la página
 de login
 
 
+Algoritmo de encriptación pbkdf2
 
 
+IUhq0AkUW7S06vy2Q2tnvFsMPfQ=
+
+KUvjmPHeFvQS4Uq0hSBH3BiwjlA=

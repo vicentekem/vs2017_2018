@@ -23,8 +23,10 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
         //sin seguridad
         [AllowAnonymous] 
         public ActionResult Login()
-        {   
-            return View();
+        {
+            if (SecurityHelper.IsLogged()) return RedirectToAction("Index","Home");
+
+            return View();            
         }
 
         [AllowAnonymous]
@@ -64,6 +66,8 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             Request.GetOwinContext().Authentication.SignOut();
             return RedirectToAction("Login");
         }
+
+
 
     }
 }
