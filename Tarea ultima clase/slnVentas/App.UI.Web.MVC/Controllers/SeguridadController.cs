@@ -67,7 +67,5 @@ namespace App.UI.Web.MVC.Controllers.Mantenimientos
             return RedirectToAction("Login");
         }
 
-
-
     }
 }
