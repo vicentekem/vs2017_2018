@@ -747,3 +747,12 @@ C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Owin.xml
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.xml
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\AutoMapper.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.ValueTuple.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\AutoMapper.pdb
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\AutoMapper.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\System.ValueTuple.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\AntiXssLibrary.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.dll
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\AntiXssLibrary.xml
+C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\bin\HtmlSanitizationLibrary.xml

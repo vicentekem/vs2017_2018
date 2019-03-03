@@ -1134,3 +1134,698 @@ Nombre del parámetro: items
 2019-02-24 13:38:31,777 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Index,Hora de Finalización: 24/02/2019 13:38:31
 2019-02-24 13:38:31,972 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: UnidadMedida,Buscar,Hora de inicio: 24/02/2019 13:38:31
 2019-02-24 13:38:31,986 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Buscar,Hora de Finalización: 24/02/2019 13:38:31
+2019-03-03 09:13:37,152 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 09:13:37
+2019-03-03 09:13:37,186 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 09:13:37
+2019-03-03 09:14:34,537 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 09:14:34
+2019-03-03 09:14:34,556 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 09:14:34
+2019-03-03 09:20:02,451 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 09:20:02
+2019-03-03 09:20:02,468 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 09:20:02
+2019-03-03 09:53:50,499 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 09:53:50
+2019-03-03 09:53:50,517 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 09:53:50
+2019-03-03 09:54:03,721 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 09:54:03
+2019-03-03 09:54:04,146 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 09:54:04
+2019-03-03 09:54:04,191 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:54:04
+2019-03-03 09:54:04,199 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:54:04
+2019-03-03 09:54:18,768 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:54:18
+2019-03-03 09:54:18,774 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:54:18
+2019-03-03 09:55:41,009 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:55:41
+2019-03-03 09:55:41,015 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:55:41
+2019-03-03 09:55:45,079 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:55:45
+2019-03-03 09:55:45,082 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:55:45
+2019-03-03 09:55:47,161 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:55:47
+2019-03-03 09:55:47,173 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:55:47
+2019-03-03 09:55:55,176 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:55:55
+2019-03-03 09:55:55,179 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:55:55
+2019-03-03 09:56:09,560 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:56:09
+2019-03-03 09:56:09,564 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:56:09
+2019-03-03 09:56:32,720 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:56:32
+2019-03-03 09:56:32,725 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:56:32
+2019-03-03 09:56:39,376 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:56:39
+2019-03-03 09:56:39,379 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:56:39
+2019-03-03 09:56:44,496 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 09:56:44
+2019-03-03 09:56:44,500 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 09:56:44
+2019-03-03 10:03:29,235 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:03:29
+2019-03-03 10:03:29,243 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:03:29
+2019-03-03 10:06:01,523 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:01
+2019-03-03 10:06:01,529 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:01
+2019-03-03 10:06:06,025 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:06
+2019-03-03 10:06:06,030 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:06
+2019-03-03 10:06:16,800 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:16
+2019-03-03 10:06:16,806 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:16
+2019-03-03 10:06:17,393 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:17
+2019-03-03 10:06:17,396 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:17
+2019-03-03 10:06:17,584 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:17
+2019-03-03 10:06:17,588 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:17
+2019-03-03 10:06:19,547 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:19
+2019-03-03 10:06:19,548 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:19
+2019-03-03 10:06:21,339 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Categoria,Index,Hora de inicio: 3/03/2019 10:06:21
+2019-03-03 10:06:21,339 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Categoria,Index,Hora de Finalización: 3/03/2019 10:06:21
+2019-03-03 10:06:21,628 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Categoria,Buscar,Hora de inicio: 3/03/2019 10:06:21
+2019-03-03 10:06:21,681 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Categoria,Buscar,Hora de Finalización: 3/03/2019 10:06:21
+2019-03-03 10:06:23,185 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Marca,Index,Hora de inicio: 3/03/2019 10:06:23
+2019-03-03 10:06:23,185 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Marca,Index,Hora de Finalización: 3/03/2019 10:06:23
+2019-03-03 10:06:23,454 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Marca,Buscar,Hora de inicio: 3/03/2019 10:06:23
+2019-03-03 10:06:23,492 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Marca,Buscar,Hora de Finalización: 3/03/2019 10:06:23
+2019-03-03 10:06:24,969 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: UnidadMedida,Index,Hora de inicio: 3/03/2019 10:06:24
+2019-03-03 10:06:24,970 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Index,Hora de Finalización: 3/03/2019 10:06:24
+2019-03-03 10:06:25,205 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: UnidadMedida,Buscar,Hora de inicio: 3/03/2019 10:06:25
+2019-03-03 10:06:25,220 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Buscar,Hora de Finalización: 3/03/2019 10:06:25
+2019-03-03 10:06:26,984 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto,Index4,Hora de inicio: 3/03/2019 10:06:26
+2019-03-03 10:06:26,985 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto,Index4,Hora de Finalización: 3/03/2019 10:06:26
+2019-03-03 10:06:27,575 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto,Buscar,Hora de inicio: 3/03/2019 10:06:27
+2019-03-03 10:06:27,629 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto,Buscar,Hora de Finalización: 3/03/2019 10:06:27
+2019-03-03 10:06:30,104 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:30
+2019-03-03 10:06:30,104 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:30
+2019-03-03 10:06:39,595 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:06:39
+2019-03-03 10:06:39,599 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:06:39
+2019-03-03 10:09:16,193 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:09:16
+2019-03-03 10:09:16,199 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:09:16
+2019-03-03 10:10:03,341 [25] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.Web.HttpCompileException (0x80004005): C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_menu.cshtml(62): error CS1012: Too many characters in character literal
+   en System.Web.Compilation.AssemblyBuilder.Compile()
+   en System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   en System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   en System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName)
+   en ASP._Page_Views_Shared__LayoutMain_cshtml.Execute() en C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_LayoutMain.cshtml:línea 59
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   en System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.WebPages.WebPageBase.<>c__DisplayClass40_0.<RenderPageCore>b__0(TextWriter writer)
+   en System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   en System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   en System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   en System.Web.WebPages.WebPageBase.PopContext()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 10:10:03,341 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:10:03
+2019-03-03 10:10:03,357 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:10:03
+2019-03-03 10:10:24,682 [32] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.Web.HttpCompileException (0x80004005): C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_menu.cshtml(62): error CS1012: Too many characters in character literal
+   en System.Web.Compilation.BuildManager.PostProcessFoundBuildResult(BuildResult result, Boolean keyFromVPP, VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetBuildResultFromCacheInternal(String cacheKey, Boolean keyFromVPP, VirtualPath virtualPath, Int64 hashCode, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultFromCacheInternal(VirtualPath virtualPath, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   en System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName)
+   en ASP._Page_Views_Shared__LayoutMain_cshtml.Execute() en C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_LayoutMain.cshtml:línea 59
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   en System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.WebPages.WebPageBase.<>c__DisplayClass40_0.<RenderPageCore>b__0(TextWriter writer)
+   en System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   en System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   en System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   en System.Web.WebPages.WebPageBase.PopContext()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   en System.Web.Mvc.Controller.<>c.<BeginExecuteCore>b__152_1(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   en System.Web.Mvc.Controller.<>c.<BeginExecute>b__151_2(IAsyncResult asyncResult, Controller controller)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   en System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   en System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   en System.Web.Mvc.MvcHandler.<>c.<BeginProcessRequest>b__20_1(IAsyncResult asyncResult, ProcessRequestState innerState)
+   en System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   en System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   en System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 10:10:24,709 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:10:24
+2019-03-03 10:10:24,738 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:10:24
+2019-03-03 10:10:29,315 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:10:29
+2019-03-03 10:10:29,321 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:10:29
+2019-03-03 10:11:07,488 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:11:07
+2019-03-03 10:11:07,493 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:11:07
+2019-03-03 10:11:39,770 [25] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.Web.HttpCompileException (0x80004005): C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_menu.cshtml(42): error CS0839: Argument missing
+   en System.Web.Compilation.AssemblyBuilder.Compile()
+   en System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   en System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   en System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   en System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName)
+   en ASP._Page_Views_Shared__LayoutMain_cshtml.Execute() en C:\Labs\lab01\Tarea ultima clase\slnVentas\App.UI.Web.MVC\Views\Shared\_LayoutMain.cshtml:línea 59
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   en System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.WebPages.WebPageBase.<>c__DisplayClass40_0.<RenderPageCore>b__0(TextWriter writer)
+   en System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   en System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   en System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   en System.Web.WebPages.WebPageBase.PopContext()
+   en System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 10:11:39,772 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:11:39
+2019-03-03 10:11:39,786 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:11:39
+2019-03-03 10:12:07,690 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:12:07
+2019-03-03 10:12:09,233 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:12:09
+2019-03-03 10:12:14,268 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Categoria,Index,Hora de inicio: 3/03/2019 10:12:14
+2019-03-03 10:12:14,268 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Categoria,Index,Hora de Finalización: 3/03/2019 10:12:14
+2019-03-03 10:12:14,342 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Categoria,Buscar,Hora de inicio: 3/03/2019 10:12:14
+2019-03-03 10:12:14,375 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Categoria,Buscar,Hora de Finalización: 3/03/2019 10:12:14
+2019-03-03 10:12:15,104 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Marca,Index,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:15,105 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Marca,Index,Hora de Finalización: 3/03/2019 10:12:15
+2019-03-03 10:12:15,118 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Marca,Buscar,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:15,134 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Marca,Buscar,Hora de Finalización: 3/03/2019 10:12:15
+2019-03-03 10:12:15,610 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: UnidadMedida,Index,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:15,610 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Index,Hora de Finalización: 3/03/2019 10:12:15
+2019-03-03 10:12:15,622 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: UnidadMedida,Buscar,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:15,636 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: UnidadMedida,Buscar,Hora de Finalización: 3/03/2019 10:12:15
+2019-03-03 10:12:15,930 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto,Index4,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:15,930 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto,Index4,Hora de Finalización: 3/03/2019 10:12:15
+2019-03-03 10:12:15,946 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Producto,Buscar,Hora de inicio: 3/03/2019 10:12:15
+2019-03-03 10:12:16,190 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Producto,Buscar,Hora de Finalización: 3/03/2019 10:12:16
+2019-03-03 10:12:16,713 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:12:16
+2019-03-03 10:12:16,717 [32] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:12:16
+2019-03-03 10:18:27,722 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:18:27
+2019-03-03 10:18:27,741 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:18:27
+2019-03-03 10:18:28,251 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:18:28
+2019-03-03 10:18:28,506 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:18:28
+2019-03-03 10:19:39,237 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:19:39
+2019-03-03 10:19:39,257 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:19:39
+2019-03-03 10:19:44,123 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:19:44
+2019-03-03 10:19:44,123 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:19:44
+2019-03-03 10:19:44,706 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:19:44
+2019-03-03 10:19:44,951 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:19:44
+2019-03-03 10:21:08,752 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:21:08
+2019-03-03 10:21:08,752 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:21:08
+2019-03-03 10:21:09,027 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:21:09
+2019-03-03 10:21:09,032 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:21:09
+2019-03-03 10:21:14,925 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:21:14
+2019-03-03 10:21:14,928 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:21:14
+2019-03-03 10:21:19,487 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:21:19
+2019-03-03 10:21:19,490 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:21:19
+2019-03-03 10:21:24,286 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:21:24
+2019-03-03 10:21:24,290 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:21:24
+2019-03-03 10:21:26,310 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:21:26
+2019-03-03 10:21:26,314 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:21:26
+2019-03-03 10:25:14,518 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:25:14
+2019-03-03 10:25:14,537 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:25:14
+2019-03-03 10:25:26,594 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:25:26
+2019-03-03 10:25:26,594 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:25:26
+2019-03-03 10:25:27,067 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:25:27
+2019-03-03 10:25:27,322 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:25:27
+2019-03-03 10:25:30,000 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,create,Hora de inicio: 3/03/2019 10:25:30
+2019-03-03 10:25:30,000 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,create,Hora de Finalización: 3/03/2019 10:25:30
+2019-03-03 10:25:36,718 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Edit,Hora de inicio: 3/03/2019 10:25:36
+2019-03-03 10:25:36,719 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Edit,Hora de Finalización: 3/03/2019 10:25:36
+2019-03-03 10:32:29,739 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:32:29
+2019-03-03 10:32:29,747 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:32:29
+2019-03-03 10:32:32,533 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:32:32
+2019-03-03 10:32:32,536 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:32:32
+2019-03-03 10:39:12,640 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:39:12
+2019-03-03 10:39:12,640 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:39:12
+2019-03-03 10:39:12,643 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:39:12
+2019-03-03 10:39:12,649 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:39:12
+2019-03-03 10:39:27,199 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:39:27
+2019-03-03 10:39:27,199 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:39:27
+2019-03-03 10:39:27,532 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:39:27
+2019-03-03 10:39:27,536 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:39:27
+2019-03-03 10:40:46,095 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:40:46
+2019-03-03 10:40:46,095 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:40:46
+2019-03-03 10:40:46,373 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:40:46
+2019-03-03 10:40:46,378 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:40:46
+2019-03-03 10:45:22,688 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:45:22
+2019-03-03 10:45:22,688 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:45:22
+2019-03-03 10:45:22,979 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:45:22
+2019-03-03 10:45:22,984 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:45:22
+2019-03-03 10:46:05,273 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:46:05
+2019-03-03 10:46:05,273 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:46:05
+2019-03-03 10:46:05,552 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:46:05
+2019-03-03 10:46:05,558 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:46:05
+2019-03-03 10:46:17,375 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:46:17
+2019-03-03 10:46:17,375 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:46:17
+2019-03-03 10:46:17,863 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:46:17
+2019-03-03 10:46:17,867 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:46:17
+2019-03-03 10:46:38,087 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:46:38
+2019-03-03 10:46:38,087 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:46:38
+2019-03-03 10:46:38,355 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:46:38
+2019-03-03 10:46:38,361 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:46:38
+2019-03-03 10:47:20,790 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:47:20
+2019-03-03 10:47:20,790 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:47:20
+2019-03-03 10:47:21,077 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:47:21
+2019-03-03 10:47:21,081 [37] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:47:21
+2019-03-03 10:47:50,751 [41] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:47:50
+2019-03-03 10:47:50,751 [41] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:47:50
+2019-03-03 10:47:51,083 [41] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:47:51
+2019-03-03 10:47:51,088 [41] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:47:51
+2019-03-03 10:47:52,518 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:47:52
+2019-03-03 10:47:52,518 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:47:52
+2019-03-03 10:47:52,519 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:47:52
+2019-03-03 10:47:52,522 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:47:52
+2019-03-03 10:48:15,696 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:48:15
+2019-03-03 10:48:15,696 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:48:15
+2019-03-03 10:48:15,971 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:48:15
+2019-03-03 10:48:15,977 [46] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:48:15
+2019-03-03 10:49:26,943 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:49:26
+2019-03-03 10:49:26,944 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:49:26
+2019-03-03 10:49:27,262 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:49:27
+2019-03-03 10:49:27,268 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:49:27
+2019-03-03 10:51:16,751 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:51:16
+2019-03-03 10:51:16,751 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:51:16
+2019-03-03 10:51:17,032 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:51:17
+2019-03-03 10:51:17,038 [6] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:51:17
+2019-03-03 10:53:33,256 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:53:33
+2019-03-03 10:53:33,256 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:53:33
+2019-03-03 10:53:33,547 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:53:33
+2019-03-03 10:53:33,552 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:53:33
+2019-03-03 10:54:02,631 [30] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:54:02
+2019-03-03 10:54:02,631 [30] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:54:02
+2019-03-03 10:54:02,861 [30] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:54:02
+2019-03-03 10:54:02,864 [30] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:54:02
+2019-03-03 10:54:47,122 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:54:47
+2019-03-03 10:54:47,145 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:54:47
+2019-03-03 10:54:47,777 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:54:47
+2019-03-03 10:54:49,434 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:54:49
+2019-03-03 10:54:55,639 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:54:55
+2019-03-03 10:54:55,639 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:54:55
+2019-03-03 10:54:55,852 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:54:55
+2019-03-03 10:54:55,857 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:54:55
+2019-03-03 10:54:56,533 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:54:56
+2019-03-03 10:54:56,533 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:54:56
+2019-03-03 10:54:56,533 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:54:56
+2019-03-03 10:54:56,537 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:54:56
+2019-03-03 10:55:28,640 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:55:28
+2019-03-03 10:55:28,640 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:55:28
+2019-03-03 10:55:28,640 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:28
+2019-03-03 10:55:28,645 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:28
+2019-03-03 10:55:29,125 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:55:29
+2019-03-03 10:55:29,125 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:55:29
+2019-03-03 10:55:29,125 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:29
+2019-03-03 10:55:29,129 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:29
+2019-03-03 10:55:29,318 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:55:29
+2019-03-03 10:55:29,318 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:55:29
+2019-03-03 10:55:29,318 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:29
+2019-03-03 10:55:29,322 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:29
+2019-03-03 10:55:31,797 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:31
+2019-03-03 10:55:31,801 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:31
+2019-03-03 10:55:34,402 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:34
+2019-03-03 10:55:34,405 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:34
+2019-03-03 10:55:35,508 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:35
+2019-03-03 10:55:35,511 [34] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:35
+2019-03-03 10:55:57,919 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:55:57
+2019-03-03 10:55:57,919 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:55:57
+2019-03-03 10:55:58,222 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:55:58
+2019-03-03 10:55:58,225 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:55:58
+2019-03-03 10:56:18,847 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:56:18
+2019-03-03 10:56:18,847 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:56:18
+2019-03-03 10:56:19,151 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:56:19
+2019-03-03 10:56:19,154 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:56:19
+2019-03-03 10:56:34,047 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:56:34
+2019-03-03 10:56:34,047 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:56:34
+2019-03-03 10:56:34,317 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:56:34
+2019-03-03 10:56:34,322 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:56:34
+2019-03-03 10:56:48,775 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:56:48
+2019-03-03 10:56:48,775 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:56:48
+2019-03-03 10:56:49,044 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:56:49
+2019-03-03 10:56:49,047 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:56:49
+2019-03-03 10:57:12,135 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:57:12
+2019-03-03 10:57:12,135 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:57:12
+2019-03-03 10:57:12,407 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:57:12
+2019-03-03 10:57:12,411 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:57:12
+2019-03-03 10:57:13,053 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:57:13
+2019-03-03 10:57:13,053 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:57:13
+2019-03-03 10:57:13,053 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:57:13
+2019-03-03 10:57:13,056 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:57:13
+2019-03-03 10:57:13,228 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:57:13
+2019-03-03 10:57:13,228 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:57:13
+2019-03-03 10:57:13,229 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:57:13
+2019-03-03 10:57:13,232 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:57:13
+2019-03-03 10:57:26,128 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:57:26
+2019-03-03 10:57:26,128 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:57:26
+2019-03-03 10:57:26,406 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:57:26
+2019-03-03 10:57:26,408 [48] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:57:26
+2019-03-03 10:57:40,048 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:57:40
+2019-03-03 10:57:40,048 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:57:40
+2019-03-03 10:57:40,313 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:57:40
+2019-03-03 10:57:40,318 [38] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:57:40
+2019-03-03 10:59:58,439 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 10:59:58
+2019-03-03 10:59:58,439 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 10:59:58
+2019-03-03 10:59:58,716 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 10:59:58
+2019-03-03 10:59:58,721 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 10:59:58
+2019-03-03 11:00:08,575 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:00:08
+2019-03-03 11:00:08,575 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:00:08
+2019-03-03 11:00:08,865 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:00:08
+2019-03-03 11:00:08,869 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:00:08
+2019-03-03 11:00:44,538 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:00:44
+2019-03-03 11:00:44,538 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:00:44
+2019-03-03 11:00:45,019 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:00:45
+2019-03-03 11:00:45,022 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:00:45
+2019-03-03 11:00:47,102 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:00:47
+2019-03-03 11:00:47,102 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:00:47
+2019-03-03 11:00:47,103 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:00:47
+2019-03-03 11:00:47,108 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:00:47
+2019-03-03 11:01:14,502 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:01:14
+2019-03-03 11:01:14,502 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:01:14
+2019-03-03 11:01:14,781 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:01:14
+2019-03-03 11:01:14,786 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:01:14
+2019-03-03 11:01:15,687 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:01:15
+2019-03-03 11:01:15,687 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:01:15
+2019-03-03 11:01:15,688 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:01:15
+2019-03-03 11:01:15,692 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:01:15
+2019-03-03 11:01:24,374 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:01:24
+2019-03-03 11:01:24,374 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:01:24
+2019-03-03 11:01:24,649 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:01:24
+2019-03-03 11:01:24,652 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:01:24
+2019-03-03 11:01:33,128 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:01:33
+2019-03-03 11:01:33,128 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:01:33
+2019-03-03 11:01:33,348 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:01:33
+2019-03-03 11:01:33,352 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:01:33
+2019-03-03 11:02:07,829 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:02:07
+2019-03-03 11:02:07,852 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:02:07
+2019-03-03 11:02:08,455 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:02:08
+2019-03-03 11:02:08,599 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:02:08
+2019-03-03 11:02:08,599 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:02:08
+2019-03-03 11:02:08,599 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:02:08
+2019-03-03 11:02:08,642 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:02:08
+2019-03-03 11:02:08,642 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:02:08
+2019-03-03 11:02:29,382 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:02:29
+2019-03-03 11:02:29,382 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:02:29
+2019-03-03 11:02:29,659 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:02:29
+2019-03-03 11:02:29,663 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:02:29
+2019-03-03 11:02:46,278 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:02:46
+2019-03-03 11:02:46,279 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:02:46
+2019-03-03 11:02:46,537 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:02:46
+2019-03-03 11:02:46,541 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:02:46
+2019-03-03 11:03:05,280 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:03:05
+2019-03-03 11:03:05,280 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:03:05
+2019-03-03 11:03:05,491 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:03:05
+2019-03-03 11:03:05,495 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:03:05
+2019-03-03 11:03:14,054 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:03:14
+2019-03-03 11:03:14,054 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:03:14
+2019-03-03 11:03:14,274 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:03:14
+2019-03-03 11:03:14,277 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:03:14
+2019-03-03 11:03:33,438 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:03:33
+2019-03-03 11:03:33,438 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:03:33
+2019-03-03 11:03:33,676 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:03:33
+2019-03-03 11:03:33,679 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:03:33
+2019-03-03 11:04:10,167 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:04:10
+2019-03-03 11:04:10,167 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:04:10
+2019-03-03 11:04:10,393 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:04:10
+2019-03-03 11:04:10,398 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:04:10
+2019-03-03 11:04:32,559 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:04:32
+2019-03-03 11:04:32,559 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:04:32
+2019-03-03 11:04:32,779 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:04:32
+2019-03-03 11:04:32,782 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:04:32
+2019-03-03 11:04:52,638 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:04:52
+2019-03-03 11:04:52,638 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:04:52
+2019-03-03 11:04:52,854 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:04:52
+2019-03-03 11:04:52,858 [45] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:04:52
+2019-03-03 11:05:09,360 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:05:09
+2019-03-03 11:05:09,360 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:05:09
+2019-03-03 11:05:09,599 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:05:09
+2019-03-03 11:05:09,604 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:05:09
+2019-03-03 11:05:47,941 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:05:47
+2019-03-03 11:05:47,941 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:05:47
+2019-03-03 11:05:48,200 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:05:48
+2019-03-03 11:05:48,205 [39] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:05:48
+2019-03-03 11:05:58,511 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:05:58
+2019-03-03 11:05:58,511 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:05:58
+2019-03-03 11:05:58,723 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:05:58
+2019-03-03 11:05:58,726 [36] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:05:58
+2019-03-03 11:10:36,960 [50] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:10:36
+2019-03-03 11:10:36,960 [50] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:10:36
+2019-03-03 11:10:37,206 [50] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:10:37
+2019-03-03 11:10:37,211 [50] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:10:37
+2019-03-03 11:10:38,591 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,create,Hora de inicio: 3/03/2019 11:10:38
+2019-03-03 11:10:38,591 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,create,Hora de Finalización: 3/03/2019 11:10:38
+2019-03-03 11:10:51,206 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:10:51
+2019-03-03 11:10:51,206 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:10:51
+2019-03-03 11:10:51,427 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:10:51
+2019-03-03 11:10:51,432 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:10:51
+2019-03-03 11:11:00,268 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:11:00
+2019-03-03 11:11:00,268 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:11:00
+2019-03-03 11:11:00,493 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:11:00
+2019-03-03 11:11:00,497 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:11:00
+2019-03-03 11:11:02,741 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,create,Hora de inicio: 3/03/2019 11:11:02
+2019-03-03 11:11:02,742 [40] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,create,Hora de Finalización: 3/03/2019 11:11:02
+2019-03-03 11:37:31,005 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 11:37:31
+2019-03-03 11:37:31,026 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 11:37:31
+2019-03-03 11:37:31,904 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Buscar,Hora de inicio: 3/03/2019 11:37:31
+2019-03-03 11:37:32,205 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Buscar,Hora de Finalización: 3/03/2019 11:37:32
+2019-03-03 12:32:13,758 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 12:32:13
+2019-03-03 12:32:13,779 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 12:32:13
+2019-03-03 12:32:15,494 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 12:32:15
+2019-03-03 12:32:15,494 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 12:32:15
+2019-03-03 12:32:20,415 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:32:20
+2019-03-03 12:32:20,415 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:32:20
+2019-03-03 12:32:36,379 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:32:36
+2019-03-03 12:32:36,379 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:32:36
+2019-03-03 12:34:22,083 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:34:22
+2019-03-03 12:34:22,083 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:34:22
+2019-03-03 12:34:49,356 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:34:49
+2019-03-03 12:34:49,357 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:34:49
+2019-03-03 12:34:58,121 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:34:58
+2019-03-03 12:34:58,121 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:34:58
+2019-03-03 12:35:16,820 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:16
+2019-03-03 12:35:16,820 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:16
+2019-03-03 12:35:17,497 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:17
+2019-03-03 12:35:17,497 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:17
+2019-03-03 12:35:17,682 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:17
+2019-03-03 12:35:17,682 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:17
+2019-03-03 12:35:17,850 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:17
+2019-03-03 12:35:17,850 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:17
+2019-03-03 12:35:18,025 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:18
+2019-03-03 12:35:18,025 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:18
+2019-03-03 12:35:53,628 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:53
+2019-03-03 12:35:53,628 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:53
+2019-03-03 12:35:54,004 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:35:54
+2019-03-03 12:35:54,004 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:35:54
+2019-03-03 12:36:36,412 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:36:36
+2019-03-03 12:36:36,412 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:36:36
+2019-03-03 12:36:57,650 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:36:57
+2019-03-03 12:36:57,650 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:36:57
+2019-03-03 12:37:07,786 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:37:07
+2019-03-03 12:37:07,786 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:37:07
+2019-03-03 12:37:08,973 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:37:08
+2019-03-03 12:37:08,973 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:37:08
+2019-03-03 12:37:09,138 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:37:09
+2019-03-03 12:37:09,138 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:37:09
+2019-03-03 12:37:23,491 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:37:23
+2019-03-03 12:37:23,491 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:37:23
+2019-03-03 12:38:28,890 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:38:28
+2019-03-03 12:38:28,890 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:38:28
+2019-03-03 12:39:41,532 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:39:41
+2019-03-03 12:39:41,532 [18] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:39:41
+2019-03-03 12:40:26,186 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:40:26
+2019-03-03 12:40:26,186 [35] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:40:26
+2019-03-03 12:40:58,194 [26] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:40:58
+2019-03-03 12:40:58,194 [26] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:40:58
+2019-03-03 12:41:27,402 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:41:27
+2019-03-03 12:41:27,423 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:41:27
+2019-03-03 12:41:42,108 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:41:42
+2019-03-03 12:41:42,108 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:41:42
+2019-03-03 12:41:42,873 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:41:42
+2019-03-03 12:41:42,873 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:41:42
+2019-03-03 12:41:43,042 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:41:43
+2019-03-03 12:41:43,042 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:41:43
+2019-03-03 12:41:43,209 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 12:41:43
+2019-03-03 12:41:43,209 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 12:41:43
+2019-03-03 12:43:32,082 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 12:43:32
+2019-03-03 12:43:32,100 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 12:43:32
+2019-03-03 12:43:56,578 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 12:43:56
+2019-03-03 12:43:56,579 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 12:43:56
+2019-03-03 12:57:38,771 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 12:57:38
+2019-03-03 12:57:38,791 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 12:57:38
+2019-03-03 12:59:01,578 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 12:59:01
+2019-03-03 12:59:10,981 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 12:59:10
+2019-03-03 13:04:41,664 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:04:41
+2019-03-03 13:04:41,684 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:04:41
+2019-03-03 13:05:23,201 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:05:23
+2019-03-03 13:05:23,426 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:05:23
+2019-03-03 13:05:23,712 [8] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.InvalidOperationException: El elemento de modelo pasado al diccionario es de tipo 'System.Collections.Generic.List`1[App.Entities.Base.Comentario]', pero este diccionario requiere un elemento de modelo de tipo 'System.Collections.Generic.IEnumerable`1[App.UI.Web.MVC.Models.ViewModels.ComentarioViewModel]'.
+   en System.Web.Mvc.ViewDataDictionary`1.SetModel(Object value)
+   en System.Web.Mvc.ViewDataDictionary..ctor(ViewDataDictionary dictionary)
+   en System.Web.Mvc.WebViewPage`1.SetViewData(ViewDataDictionary viewData)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 13:05:41,520 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,registrar,Hora de inicio: 3/03/2019 13:05:41
+2019-03-03 13:05:41,520 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,registrar,Hora de Finalización: 3/03/2019 13:05:41
+2019-03-03 13:05:45,261 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:05:45
+2019-03-03 13:05:45,264 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:05:45
+2019-03-03 13:05:45,265 [8] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.InvalidOperationException: El elemento de modelo pasado al diccionario es de tipo 'System.Collections.Generic.List`1[App.Entities.Base.Comentario]', pero este diccionario requiere un elemento de modelo de tipo 'System.Collections.Generic.IEnumerable`1[App.UI.Web.MVC.Models.ViewModels.ComentarioViewModel]'.
+   en System.Web.Mvc.ViewDataDictionary`1.SetModel(Object value)
+   en System.Web.Mvc.ViewDataDictionary..ctor(ViewDataDictionary dictionary)
+   en System.Web.Mvc.WebViewPage`1.SetViewData(ViewDataDictionary viewData)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 13:06:39,995 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:06:39
+2019-03-03 13:06:39,998 [9] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:06:39
+2019-03-03 13:07:22,873 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:07:22
+2019-03-03 13:07:22,875 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:07:22
+2019-03-03 13:08:34,171 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:08:34
+2019-03-03 13:08:34,174 [25] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:08:34
+2019-03-03 13:08:42,130 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:08:42
+2019-03-03 13:08:42,133 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:08:42
+2019-03-03 13:10:02,082 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:10:02
+2019-03-03 13:10:02,084 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:10:02
+2019-03-03 13:10:15,722 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,index,Hora de inicio: 3/03/2019 13:10:15
+2019-03-03 13:10:15,724 [8] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,index,Hora de Finalización: 3/03/2019 13:10:15
+2019-03-03 13:10:27,540 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:10:27
+2019-03-03 13:10:27,540 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:10:27
+2019-03-03 13:10:34,797 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:10:34
+2019-03-03 13:10:34,944 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:10:34
+2019-03-03 13:10:34,964 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 13:10:34
+2019-03-03 13:10:34,965 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 13:10:34
+2019-03-03 13:14:08,427 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Home,Index,Hora de inicio: 3/03/2019 13:14:08
+2019-03-03 13:14:08,427 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Home,Index,Hora de Finalización: 3/03/2019 13:14:08
+2019-03-03 13:14:10,212 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Salir,Hora de inicio: 3/03/2019 13:14:10
+2019-03-03 13:14:10,215 [27] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Salir,Hora de Finalización: 3/03/2019 13:14:10
+2019-03-03 13:14:10,223 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:14:10
+2019-03-03 13:14:10,223 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:14:10
+2019-03-03 13:15:06,667 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:15:06
+2019-03-03 13:15:06,667 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:15:06
+2019-03-03 13:15:08,418 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:15:08
+2019-03-03 13:15:08,423 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:15:08
+2019-03-03 13:15:16,057 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:15:16
+2019-03-03 13:15:16,059 [24] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:15:16
+2019-03-03 13:15:19,523 [29] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:15:19
+2019-03-03 13:15:19,526 [29] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:15:19
+2019-03-03 13:17:18,037 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:17:18
+2019-03-03 13:19:00,581 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:19:00
+2019-03-03 13:19:00,836 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:19:00
+2019-03-03 13:19:01,123 [12] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.InvalidOperationException: El elemento de modelo pasado al diccionario es de tipo 'System.Collections.Generic.List`1[App.Entities.Base.Comentario]', pero este diccionario requiere un elemento de modelo de tipo 'System.Collections.Generic.IEnumerable`1[App.UI.Web.MVC.Models.ViewModels.ComentarioViewModel]'.
+   en System.Web.Mvc.ViewDataDictionary`1.SetModel(Object value)
+   en System.Web.Mvc.ViewDataDictionary..ctor(ViewDataDictionary dictionary)
+   en System.Web.Mvc.WebViewPage`1.SetViewData(ViewDataDictionary viewData)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 13:21:33,326 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Seguridad,Login,Hora de inicio: 3/03/2019 13:21:33
+2019-03-03 13:21:33,343 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Seguridad,Login,Hora de Finalización: 3/03/2019 13:21:33
+2019-03-03 13:21:37,339 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:21:37
+2019-03-03 13:21:37,549 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:21:37
+2019-03-03 13:21:37,771 [12] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.InvalidOperationException: El elemento de modelo pasado al diccionario es de tipo 'System.Collections.Generic.List`1[App.Entities.Base.Comentario]', pero este diccionario requiere un elemento de modelo de tipo 'System.Collections.Generic.IEnumerable`1[App.UI.Web.MVC.Models.ViewModels.ComentarioViewModel]'.
+   en System.Web.Mvc.ViewDataDictionary`1.SetModel(Object value)
+   en System.Web.Mvc.ViewDataDictionary..ctor(ViewDataDictionary dictionary)
+   en System.Web.Mvc.WebViewPage`1.SetViewData(ViewDataDictionary viewData)
+   en System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   en System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-03-03 13:22:19,584 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:22:19
+2019-03-03 13:22:19,823 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:22:19
+2019-03-03 13:22:22,787 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:22:22
+2019-03-03 13:22:22,789 [11] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:22:22
+2019-03-03 13:23:30,755 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:23:30
+2019-03-03 13:23:30,758 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:23:30
+2019-03-03 13:26:08,330 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:26:08
+2019-03-03 13:26:08,560 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:26:08
+2019-03-03 13:26:15,538 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:26:15
+2019-03-03 13:26:15,540 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:26:15
+2019-03-03 13:26:18,259 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:26:18
+2019-03-03 13:26:18,260 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:26:18
+2019-03-03 13:26:50,327 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:26:50
+2019-03-03 13:26:50,400 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:26:50
+2019-03-03 13:26:50,408 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:26:50
+2019-03-03 13:26:50,411 [14] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:26:50
+2019-03-03 13:28:08,379 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:28:08
+2019-03-03 13:28:08,381 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:28:08
+2019-03-03 13:28:32,530 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:28:32
+2019-03-03 13:28:32,533 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:28:32
+2019-03-03 13:28:39,810 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:39
+2019-03-03 13:28:39,810 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:39
+2019-03-03 13:28:49,115 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:28:49
+2019-03-03 13:28:49,148 [15] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:28:49
+2019-03-03 13:28:49,153 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:28:49
+2019-03-03 13:28:49,155 [16] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:28:49
+2019-03-03 13:38:39,068 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:38:39
+2019-03-03 13:38:39,086 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:38:39
+2019-03-03 13:39:04,481 [19] ERROR App.UI.Web.MVC.Filters.HandleCustomError System.Web.Mvc.HttpAntiForgeryException (0x80004005): La cookie antifalsificación requerida "__RequestVerificationToken" no está presente.
+   en System.Web.Helpers.AntiXsrf.TokenValidator.ValidateTokens(HttpContextBase httpContext, IIdentity identity, AntiForgeryToken sessionToken, AntiForgeryToken fieldToken)
+   en System.Web.Helpers.AntiXsrf.AntiForgeryWorker.Validate(HttpContextBase httpContext)
+   en System.Web.Helpers.AntiForgery.Validate()
+   en System.Web.Mvc.ValidateAntiForgeryTokenAttribute.OnAuthorization(AuthorizationContext filterContext)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__0(AsyncCallback asyncCallback, Object asyncState)
+2019-03-03 13:39:08,099 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:39:08
+2019-03-03 13:39:08,336 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:39:08
+2019-03-03 13:39:21,403 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:39:21
+2019-03-03 13:39:21,403 [10] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:39:21
+2019-03-03 13:39:27,977 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Registrar,Hora de inicio: 3/03/2019 13:39:27
+2019-03-03 13:39:28,051 [12] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Registrar,Hora de Finalización: 3/03/2019 13:39:28
+2019-03-03 13:39:28,059 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Iniciando la ejecución del controlador: Comentario,Index,Hora de inicio: 3/03/2019 13:39:28
+2019-03-03 13:39:28,061 [13] INFO  App.UI.Web.MVC.Filters.LoggingFilterAttribute Finalizando la ejecución del controlador: Comentario,Index,Hora de Finalización: 3/03/2019 13:39:28

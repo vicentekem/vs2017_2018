@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.CurrentPage = "Usuario";
+    ViewBag.Title = "Administrar Usuarios";
+}
+@*Sin usar Html helpers*@
+@*<a href="/Usuario/Create" class="btn btn-success">Nueva Categoría</a>*@
+@*Usando HTML Helpers*@
+@*@Html.ActionLink("Nueva Categoría","Create","Usuario",new { @class = "btn btn-success" })*@
+<div class="box">
+    <div class="box-header">
+        <h3>Listado de Usuarios</h3>
+
+        <button onclick="app.helpers.showModal('UsuarioCreatePopup','@Url.Action("create")')" class="btn btn-success btn">Nuevo</button>
+
+        <div class="box-tools">
+
+            @*<button onclick="app.helpers.showModal('UsuarioCreatePopup','@Url.Action("create")')" class="btn btn-success btn-sm">Nuevo</button>*@
+
+            <div class="input-group">
+
+                @using (Ajax.BeginForm("Buscar", "Home",
+                new AjaxOptions
+                {
+                    HttpMethod = "POST",
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = "listado"
+                }))
+                {
+
+                    <input name="filterByName" id="filterByName" class="form-control input-sm" placeholder="Buscar por nombre" style="width:150px;" />
+                    <div class="input-group-btn">
+                        <button type="submit" class="buscar btn btn-sm btn-default">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                }
+            </div>
+
+
+        </div>
+    </div>
+    <div class="box-body table-responsive no-padding">
+        <div id="listado">
+            @Html.Action("Buscar")
+        </div>
+    </div>
+</div>
+
+
+@Modal.CrearModal("Crear Categoría", "UsuarioCreatePopup")
+
+@section scriptsAdicionales
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+

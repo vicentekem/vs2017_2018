@@ -44,6 +44,7 @@
     <Compile Include="ICategoriaService.cs" />
     <Compile Include="IMarcaService.cs" />
     <Compile Include="ISeguridadService.cs" />
+    <Compile Include="IComentarioService.cs" />
     <Compile Include="IUnidadMedidaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
