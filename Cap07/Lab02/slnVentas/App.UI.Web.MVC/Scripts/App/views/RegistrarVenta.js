@@ -53,7 +53,11 @@
                 }
 
                 $.post("/Venta/Guardar", { model: venta }, function (response) {
+
                     app.helpers.ShowMessageSuccess("Se registro la venta correctamente");
+
+
+
                 });
             }
 
