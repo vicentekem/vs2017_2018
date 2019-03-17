@@ -82,3 +82,17 @@ C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
 C:\Labs\lab01\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll.config
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\App.Data.DataBase.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\App.Entities.Base.pdb
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.csproj.CopyComplete
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.dll
+C:\Users\ACER\Documents\GitHub\CursoVS2017_2018\Tarea ultima clase\slnVentas\App.Data.DataBase\obj\Debug\App.Data.DataBase.pdb
