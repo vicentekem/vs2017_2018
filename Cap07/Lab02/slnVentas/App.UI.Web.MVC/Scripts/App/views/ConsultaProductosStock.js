@@ -25,8 +25,7 @@
                                             name: "productos"
                                         }).on('change', function () {
 
-                                            app.helpers.closeModal("BusquedaDeProductosPopudID",item);
-
+                                            app.helpers.closeModal("BusquedaDeProductosPopudID", item);                                            
                                         });
                                     },
                                     width: 20
